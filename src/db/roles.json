@@ -1,0 +1,10 @@
+[
+    {
+        "title": "ADMINISTRATOR",
+        "description": "User who has full access to the system"
+    },
+    {
+        "title": "SUSCRIBER",
+        "description": "User who has a reserve access to the system"
+    }
+]
